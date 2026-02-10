@@ -1,15 +1,15 @@
 import React from 'react'
 import Suitup from './Suitup'
 import Cart from '../Pages/Cart'
-import Scan from '../assets/scan.png'
-import vector from '../assets/vector.png'
-import vectorimg from '../assets/vector12.png'
-import vectorimg1 from '../assets/contact.png'
+import Scan from '../media/scan.png'
+import vector from '../media/vector.png'
+import vectorimg from '../media/vector12.png'
+import vectorimg1 from '../media/contact.png'
 import Landingcart from '../Pages/Landingcart'
 import Videocart from '../Pages/Videocart'
-import Start from '../assets/start.png'
-import Stop from '../assets/images.png'
-import time from '../assets/vt4.png'
+import Start from '../media/start.png'
+import Stop from '../media/images.png'
+import time from '../media/vt4.png'
 
 function Home() {
   return (

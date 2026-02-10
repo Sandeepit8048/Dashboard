@@ -1,13 +1,13 @@
 import React from 'react'
-import Img from '../assets/task.png'
-import Img1 from '../assets/client.png'
-import Img2 from '../assets/chat.png'
-import Img3 from '../assets/calendar.png'
-import Img4 from '../assets/team.png'
-import Img5 from '../assets/tickets.png'
-import Img6 from '../assets/vt10.png'
-import ICON from '../assets/ic1.png'
-import GICON from '../assets/gps.png'
+import Img from '../media/task.png'
+import Img1 from '../media/client.png'
+import Img2 from '../media/chat.png'
+import Img3 from '../media/calendar.png'
+import Img4 from '../media/team.png'
+import Img5 from '../media/tickets.png'
+import Img6 from '../media/vt10.png'
+import ICON from '../media/ic1.png'
+import GICON from '../media/gps.png'
 
 function Suitup() {
 

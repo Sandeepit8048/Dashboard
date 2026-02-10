@@ -1,6 +1,6 @@
 import React from "react";
-import Pichat from '../assets/ply.png'
-import pi1 from '../assets/ply1.png'
+import Pichat from '../media/ply.png'
+import pi1 from '../media/ply1.png'
 const notifications = [
   {
     id: 1,
