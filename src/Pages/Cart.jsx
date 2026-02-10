@@ -1,16 +1,16 @@
 import React from 'react';
-import Calender from "../assets/Group 1000001026 (1).png"
-import Calender1 from "../assets/Group 1000001026 (2).png"
-import Contect from "../assets/Group 1000001026.png"
+import Calender from "../assets/gp26.png"
+import Calender1 from "../assets/gp261.png"
+import Contect from "../assets/gp262.png"
 import IMG from "../assets/cl.png"
-import Arow from '../assets/vector (2).png'
-import Arow1 from '../assets/vector (3).png'
-import Group15 from '../assets/Group15.png'
-import Group14 from '../assets/Group14.png'
-import Group13 from '../assets/Group13.png'
-import Group12 from '../assets/Group12.png'
-import Group11 from '../assets/Group11.png'
-import Group from '../assets/Group.png'
+import Arow from '../assets/vector1.png'
+import Arow1 from '../assets/vector3.png'
+import Group15 from '../assets/group15.png'
+import Group14 from '../assets/group14.png'
+import Group13 from '../assets/group13.png'
+import Group12 from '../assets/group12.png'
+import Group11 from '../assets/group11.png'
+import Group from '../assets/group.png'
 
 function Cart() {
 
